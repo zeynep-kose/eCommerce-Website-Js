@@ -23,7 +23,7 @@ let smallimg= document.getElementsByClassName("small-img");
 smallimg[0].onclick= function()
 {
     MainImg.src=smallimg[0].src;
-    console.log('Dgdgdsgsdg')
+   
 }
 
 smallimg[1].onclick= function()
